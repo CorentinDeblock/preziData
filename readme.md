@@ -1,3 +1,3 @@
-# Le readme des projet de veille
+# base de données
 
-[] base de données : mercredi 5/6/2019
+Lien vers la présentation Prezi : [Prezi base de données](https://prezi.com/view/WRyNWEnEyESvLMsHfVgd/)
